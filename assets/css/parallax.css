@@ -14,12 +14,19 @@ nav{
     margin-bottom: 5px;
 
 }
+
+
+#main-menu-bar{
+
+  background-image: url('../images/luke-chesser-hQo6Uyo4nBg-unsplash.jpg');
+}
+
 a,
 p,
 div,
 button {
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
-  color: darkgray;;
+  color: #A1A9FE;
 
 }
 
@@ -32,16 +39,18 @@ p{
 
 .navbar{
 
-    background-color:  #965150;
-    color: #e7cecf  !important;
+    background-color:#4120A9;
+    color: #A1A9FE  !important;
     justify-content: center !important;
+    border-top: thin solid #A1A9FE;
+    border-bottom: thin solid #A1A9FE;
 }
 
 
 
 .navbar-text{
 
-    color: #e7cecf  !important;
+    color: #A1A9FE  !important;
     text-align: center !important;
 }
 .parallax-1{
@@ -50,32 +59,38 @@ p{
 }
 .nav-item{
 
-    color: #e7cecf !important;
+    color: #A1A9FE !important;
 }
 
 .about-section{
 
     height: fit-content;
-    background-color:#ebe9e8;
+    background-color:#4120A9;
     font-size: 1.5rem;
-    padding: 70px 0px;
+    padding: 50px 0px;
+    border-top: thin solid #A1A9FE;
+    border-bottom: thin solid #A1A9FE;
 }
 
 .portfolio-section{
 
     height: fit-content;
-    background-color:#ebe9e8;
+    background-color:#4120A9;
     font-size:36px;
-    padding: 70px 0px;
+    padding: 50px 0px;
+    border-top: thin solid #A1A9FE;
+    border-bottom: thin solid #A1A9FE;
 }
 
 
 .contact-section{
 
     height: fit-content;
-    background-color:#ebe9e8;
+    background-color:#4120A9;
     font-size:36px;
-    padding: 70px 0px;
+    padding: 50px 0px;
+    border-top: thin solid #A1A9FE;
+    border-bottom: thin solid #A1A9FE;
 }
 
 .card{
@@ -158,7 +173,7 @@ a {
 
 .parallax {
     /* The image used */
-    background-image: url('../images/evie-s-_8vovuZCj0c-unsplash.jpg');
+    background-image: url('../images/fabrizio-conti-kXVogATbFgA-unsplash.jpg');
 
     /* Full height */
     height: 25%;
@@ -196,7 +211,7 @@ a {
   
   #portfolio-picture-label1 {
     height: 70px;
-    background-color: #965150;
+    background-color: #A1A9FE;
     width: 100%;
     text-align: center;
     padding-top: 8px;
@@ -206,4 +221,9 @@ a {
 
     color: #e7cecf ;
     text-decoration: none;
+  }
+
+  .iris-text{
+
+    color: #4120A9;
   }
