@@ -48,8 +48,20 @@ p{
 
 #tech-row{
   border-top: solid thin  #A1A9FE;
+  font-size: 1rem;
+  padding-top: 10px;
 
 
+
+}
+
+h4{
+
+  color: #db7b7d;
+}
+#tech{
+
+  color: #A1A9FE !important;
 }
 
 .navbar-text{
