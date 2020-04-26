@@ -46,7 +46,11 @@ p{
     border-bottom: thin solid #A1A9FE;
 }
 
+#tech-row{
+  border-top: solid thin  #A1A9FE;
 
+
+}
 
 .navbar-text{
 
@@ -227,3 +231,8 @@ a {
 
     color: #4120A9;
   }
+
+
+  /* deconstructed */
+
+  
