@@ -1,35 +1,40 @@
-# MyPortfolio
-Update Portfolio
+# *MLFPortfolio* 
+    
 
-This project was to create a simple, clean portfolio.
+![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)
 
-Requirements:
-Updated portfolio featuring project 1 and two exemplary homework assignments.
-Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.
-Updated resume
-Updated LinkedIn profile
+## *Description*
 
-Content:
-Your name
-Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-A link to a PDF of your resume
-
-A list of projects. For each project, make sure you have the following:
-Project title
-Link to the deployed version
-Link to the GitHub repository
-Screenshot of the deployed application
-
-Design
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-Mobile-first design
-
-Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
-
-Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+This is my new portfolio format.  Used to keep my information up-to-date with static pages.
 
 ![Password Generator Screenshot](./assets/images/NewPortfolio.png)
 
+## *Table of Contents*
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+   
+## *Intallation*
+
+None
+      
+## *Usage*    
+N/A
+    
+## *License*
+This project is licensed under the MIT license.
+    
+## *Contributing*
+N/A
+    
+## *Tests*
+N/A
+
+## *Questions*
+<img src="https://avatars0.githubusercontent.com/u/57580332?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+
+If you have any questions about the repo, open an issue or contact [mlfiii](https://api.github.com/users/mlfiii).
