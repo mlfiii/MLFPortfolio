@@ -31,7 +31,5 @@ the default bootstrap theme or an unstyled HTML site.
 
 Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
-![Password Generator Screenshot](./assets/images/AboutMe.png)
-![Password Generator Screenshot](./assets/images/Portfolio.png)
-![Password Generator Screenshot](./assets/images/Contact.png)
+![Password Generator Screenshot](./assets/images/NewPortfolio.png)
 
