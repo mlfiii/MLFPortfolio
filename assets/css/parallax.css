@@ -83,7 +83,7 @@ h4{
     height: fit-content;
     background-color:#4120A9;
     font-size: 1.5rem;
-    padding: 50px 0px;
+    padding: 50px 5px 50px 10px;
     border-top: thin solid #A1A9FE;
     border-bottom: thin solid #A1A9FE;
 }
@@ -93,7 +93,7 @@ h4{
     height: fit-content;
     background-color:#4120A9;
     font-size:36px;
-    padding: 50px 0px;
+    padding: 50px 5px 50px 10px;
     border-top: thin solid #A1A9FE;
     border-bottom: thin solid #A1A9FE;
 }
@@ -104,9 +104,9 @@ h4{
     height: fit-content;
     background-color:#4120A9;
     font-size:36px;
-    padding: 50px 0px;
+    padding: 50px 5px 50px 10px;
     border-top: thin solid #A1A9FE;
-    border-bottom: thin solid #A1A9FE;
+    /* border-bottom: thin solid #A1A9FE; */
 }
 
 .card{
